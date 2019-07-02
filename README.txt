@@ -5,3 +5,4 @@ Day01
     02. pthreadDemo                                                 --> 演示pthread线程的使用
     03. pthreadWithParam                                            --> pthread带参数的用法
     04. NSThreadDemo                                                --> 演示NSThread的使用
+    05. ThreadState                                                 --> 线程状态
