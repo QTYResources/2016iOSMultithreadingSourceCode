@@ -2,3 +2,4 @@
 
 Day01
     01. SimulatedTimeConsumingOperation                             --> 模拟耗时操作
+    02. pthreadDemo                                                 --> 演示pthread线程的使用
