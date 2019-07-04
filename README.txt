@@ -7,3 +7,4 @@ Day01
     04. NSThreadDemo                                                --> 演示NSThread的使用
     05. ThreadState                                                 --> 线程状态
     06. ThreadAttribute                                             --> 线程属性
+    07. ThreadSharingResources                                      --> 线程操作共享资源的问题
