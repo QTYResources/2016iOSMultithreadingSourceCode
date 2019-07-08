@@ -22,3 +22,4 @@ Day02
     04. AsyncDownloadPicture                                        --> 异步下载网络图片
     05. SerialQueue                                                 --> 串行队列
     06. ParallelQueue                                               --> 并行队列
+    07. MainQueue                                                   --> 主队列
