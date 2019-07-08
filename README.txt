@@ -20,3 +20,5 @@ Day02
     02. ChildThreadMessageLoop                                      --> 子线程消息循环
     03. GCDDemo                                                     --> GCD演示
     04. AsyncDownloadPicture                                        --> 异步下载网络图片
+    05. SerialQueue                                                 --> 串行队列
+    
