@@ -1,0 +1,13 @@
+//
+//  Person.m
+//  AttributeModifier
+//
+//  Created by QinTuanye on 2019/7/8.
+//  Copyright © 2019 QinTuanye. All rights reserved.
+//
+
+#import "Person.h"
+
+@implementation Person
+
+@end
