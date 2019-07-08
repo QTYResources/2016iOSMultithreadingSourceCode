@@ -21,4 +21,4 @@ Day02
     03. GCDDemo                                                     --> GCD演示
     04. AsyncDownloadPicture                                        --> 异步下载网络图片
     05. SerialQueue                                                 --> 串行队列
-    
+    06. ParallelQueue                                               --> 并行队列
