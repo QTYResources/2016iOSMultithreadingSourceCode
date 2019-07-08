@@ -12,3 +12,4 @@ Day01
     09. AsyncDownloadPicture                                        --> 异步下载网络图片
     10. StrongAndWeak                                               --> strong和weak
     11. MessageLoop                                                 --> 演示消息循环
+    12. AutoReleasePool                                             --> 自动释放池面试题
