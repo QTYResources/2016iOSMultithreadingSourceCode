@@ -24,3 +24,4 @@ Day02
     06. ParallelQueue                                               --> 并行队列
     07. MainQueue                                                   --> 主队列
     08. SyncTask                                                    --> 同步任务
+    09. Barrier                                                     --> Barrier阻塞
