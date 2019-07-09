@@ -23,3 +23,4 @@ Day02
     05. SerialQueue                                                 --> 串行队列
     06. ParallelQueue                                               --> 并行队列
     07. MainQueue                                                   --> 主队列
+    08. SyncTask                                                    --> 同步任务
