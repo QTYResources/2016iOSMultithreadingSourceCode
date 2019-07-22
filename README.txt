@@ -43,3 +43,4 @@ Day03
     08. SolveMisplacement                                           --> 异步下载网络图片——解决错行的问题
     09. CachePool                                                   --> 异步下载网络图片——图片缓存池
     10. CachePool2                                                  --> 异步下载网络图片——图片缓存池
+    11. CircularReference                                           -->异步下载网络图片——block循环引用
