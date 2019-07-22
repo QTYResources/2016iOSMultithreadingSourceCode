@@ -37,3 +37,4 @@ Day03
     02. LotteryMachine                                              --> 摇奖机
     03. OperationalPriority                                         --> 操作优先级
     04. OperationalDependence                                       --> 操作依赖
+    05. SynchronousDownload                                         --> 异步下载网络图片—同步下载
