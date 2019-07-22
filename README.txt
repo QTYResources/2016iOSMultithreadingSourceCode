@@ -41,4 +41,5 @@ Day03
     06. AsynchronousDownload                                        --> 异步下载网络图片——异步下载
     07. ImageCache                                                  --> 异步下载网络图片——图片缓存
     08. SolveMisplacement                                           --> 异步下载网络图片——解决错行的问题
+    09. CachePool                                                   --> 异步下载网络图片——图片缓存池
     
