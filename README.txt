@@ -39,3 +39,4 @@ Day03
     04. OperationalDependence                                       --> 操作依赖
     05. SynchronousDownload                                         --> 异步下载网络图片——同步下载
     06. AsynchronousDownload                                        --> 异步下载网络图片——异步下载
+    07. ImageCache                                                  --> 异步下载网络图片——图片缓存
