@@ -54,4 +54,4 @@ Day04
     02. CustomOperation                                             --> 自定义Operation
     03. DownloadNetworkPicture                                      --> 下载网络图片
     04. OperationManager                                            --> 下载网络图片——下载操作管理类
-    
+    05. UIImageViewCategary                                         --> 下载网络图片——UIImageView的分类
