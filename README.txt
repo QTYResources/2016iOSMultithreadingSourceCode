@@ -55,3 +55,4 @@ Day04
     03. DownloadNetworkPicture                                      --> 下载网络图片
     04. OperationManager                                            --> 下载网络图片——下载操作管理类
     05. UIImageViewCategary                                         --> 下载网络图片——UIImageView的分类
+    06. AssociatedObject                                            --> 关联对象
