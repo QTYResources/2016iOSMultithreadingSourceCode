@@ -48,3 +48,6 @@ Day03
     13. PackageDownload                                             --> 异步下载网络图片——封装下载
     14. SandboxCatalog                                              --> 获取沙盒目录
     15. SandboxCache                                                --> 异步下载网络图片——沙盒缓存
+
+Day04
+    01. SDWebImageDemo                                              --> 使用SDWebImage异步下载网络图片
