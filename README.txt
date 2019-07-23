@@ -56,3 +56,4 @@ Day04
     04. OperationManager                                            --> 下载网络图片——下载操作管理类
     05. UIImageViewCategary                                         --> 下载网络图片——UIImageView的分类
     06. AssociatedObject                                            --> 关联对象
+    07. SimulateSDWebImage                                          --> 异步下载网络图片——模拟SDWebImage测试
