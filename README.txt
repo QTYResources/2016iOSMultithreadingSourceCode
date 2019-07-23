@@ -57,3 +57,4 @@ Day04
     05. UIImageViewCategary                                         --> 下载网络图片——UIImageView的分类
     06. AssociatedObject                                            --> 关联对象
     07. SimulateSDWebImage                                          --> 异步下载网络图片——模拟SDWebImage测试
+    08. OtherFunction                                               --> SDWebImage其他功能
