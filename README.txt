@@ -47,3 +47,4 @@ Day03
     12. CustomCell                                                  --> 异步下载网络图片——自定义cell
     13. PackageDownload                                             --> 异步下载网络图片——封装下载
     14. SandboxCatalog                                              --> 获取沙盒目录
+    15. SandboxCache                                                --> 异步下载网络图片——沙盒缓存
