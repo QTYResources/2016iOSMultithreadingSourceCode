@@ -58,3 +58,4 @@ Day04
     06. AssociatedObject                                            --> 关联对象
     07. SimulateSDWebImage                                          --> 异步下载网络图片——模拟SDWebImage测试
     08. OtherFunction                                               --> SDWebImage其他功能
+    09. NSCache                                                     --> 演示NSCache的使用
